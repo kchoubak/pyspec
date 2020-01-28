@@ -15,7 +15,7 @@ peewee
 joblib
 sklearn
 pillow
-tensorflow-gpu==1.13.1
+tensorflow-gpu==1.15.2
 numba
 tabulate
 pymongo
